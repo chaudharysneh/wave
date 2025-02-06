@@ -4540,7 +4540,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-  color: var(--bs-nav-link-hover-color);
+  /* color: var(--bs-nav-link-hover-color); */
 }
 
 .nav-link.disabled {
@@ -21800,7 +21800,7 @@ label,
 }
 
 .icon-shape i {
-  color: #fff;
+  /* color: #fff; */
   opacity: 0.8;
   top: 14px;
   position: relative;
@@ -22329,7 +22329,7 @@ hr.horizontal.gray-light {
 }
 
 .navbar .nav-link {
-  color: #344767;
+  /* color: #344767; */
   padding: 0.5rem 1rem;
   font-weight: 400;
   font-size: 16px;
@@ -22524,7 +22524,7 @@ hr.horizontal.gray-light {
   padding-left: 1rem;
   padding-right: 1rem;
   font-weight: 500;
-  color: #67748e;
+  /* color: #67748e; */
 }
 
 .navbar-vertical .navbar-nav .nav-link>i {
@@ -27067,8 +27067,8 @@ pre[class*="language-"] {
       height: 397.963px !important;
 }
 .nav-link:hover, .sidebar-dropdown:hover{
-    color: #344767;
-    background-color: #e9ecef;
+    /* color: #344767; */
+    /* background-color: #e9ecef; */
 }
 .sidebar-dropdown{
   background-color: #fff;
